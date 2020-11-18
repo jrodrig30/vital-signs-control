@@ -1,0 +1,18 @@
+Para desabilitar o tinymce, coloque no bootstrap.php a seguint configuracao:
+
+Configure::write('OwEventos.DesabilitarTinyMce', true);
+
+Para desativar campos:
+Configure::write('OwEventos.CamposDesativados', array(
+    'Model.campo',
+    ...
+));
+
+Para habilitar upload de mais fotos
+Configure::write('OwEventos.HabilitarMaisFotos', true);
+
+Para habilitar categorias
+Configure::write('OwEventos.HabilitarCategorias', true);
+
+Para definir o numero de pastas para armazenar as fotos das noticias
+Configure::write('OwEventos.NumeroPastasFotos', 2);

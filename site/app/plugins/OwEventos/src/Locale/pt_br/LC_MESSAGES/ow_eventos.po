@@ -1,0 +1,248 @@
+msgid "Evento Categoria"
+msgstr "Categoria do Evento"
+
+msgid "Related Evento Fotos"
+msgstr "Fotos do Evento"
+
+msgid "New Evento Foto"
+msgstr "Adicionar Foto"
+
+msgid "Add Evento Foto"
+msgstr "Adicionar Foto"
+
+msgid "Edit Evento Foto"
+msgstr "Editar Foto"
+
+msgid "The evento foto has been saved"
+msgstr "A foto foi salva com sucesso!"
+
+
+
+
+
+
+
+
+msgid "Evento"
+msgstr "Evento"
+
+msgid "Eventos"
+msgstr "Eventos"
+
+msgid "New Evento"
+msgstr "Novo Evento"
+
+msgid "Add Evento"
+msgstr "Adicionar Evento"
+
+msgid "Evento deleted"
+msgstr "Evento removido"
+
+msgid "Edit Evento"
+msgstr "Editar Evento"
+
+msgid "Delete Evento"
+msgstr "Remover Evento"
+
+msgid "List Eventos"
+msgstr "Listar Eventos"
+
+msgid "The evento has been saved"
+msgstr "O evento foi salvo!"
+
+msgid "The evento could not be saved. Please, try again."
+msgstr "O evento não pode ser salvo. Por favor, tente novamente."
+
+
+
+
+
+
+
+
+
+msgid "The %s has been saved"
+msgstr "O(a) %s foi salvo com sucesso"
+
+msgid "The %s could not be saved. Please, try again."
+msgstr "O(a) %s não pode ser salvo. Por favor, tente novamente."
+
+msgid "%s deleted"
+msgstr "%s foi removido(a) com sucesso"
+
+msgid "%s was not deleted"
+msgstr "%s não foi removido(a)."
+
+msgid "Add %s"
+msgstr "Adicionar %s"
+
+msgid "Link Padrao"
+msgstr "Link Padrão"
+
+msgid "New %s"
+msgstr "Novo(a) %s"
+
+msgid "Edit %s"
+msgstr "Editar %s"
+
+msgid "Delete %s"
+msgstr "Remover %s"
+
+msgid "List %s"
+msgstr "Listar %s"
+
+#meses do ano
+
+msgid "January"
+msgstr "Janeiro"
+
+msgid "February"
+msgstr "Fevereiro"
+
+msgid "March"
+msgstr "Março"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "May"
+msgstr "Maio"
+
+msgid "June"
+msgstr "Junho"
+
+msgid "July"
+msgstr "Julho"
+
+msgid "August"
+msgstr "Agosto"
+
+msgid "September"
+msgstr "Setembro"
+
+msgid "October"
+msgstr "Outubro"
+
+msgid "November"
+msgstr "Novembro"
+
+msgid "December"
+msgstr "Dezembro"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#geral
+
+msgid "Obs"
+msgstr "Observação"
+
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr "Página %page% de %pages%, exibindo %current% linhas de um total de %count%, iniciando na linha %start%, terminando em %end%"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Remover"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "Você tem certeza que deseja remover # %s?"
+
+msgid "previous"
+msgstr "anterior"
+
+msgid "next"
+msgstr "próxima"
+
+msgid "Submit"
+msgstr "Salvar"
+
+msgid "Created"
+msgstr "Data de Criação"
+
+msgid "Updated"
+msgstr "Atualizado"
+
+msgid "This field cannot be left blank"
+msgstr "Este campo não pode ficar em branco"
+
+msgid "Senha Confirma"
+msgstr "Confirme a senha"
+
+msgid "You are not authorized to access that location."
+msgstr "Você não está autorizado a entrar nesse endereço"
+
+msgid "Login failed. Invalid username or password."
+msgstr "Usuário ou senha inválidos"
+
+msgid "Descricao"
+msgstr "Descrição"
+
+msgid "Referencia"
+msgstr "Referência"
+
+msgid "Preco"
+msgstr "Preço"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "Titulo"
+msgstr "Título"

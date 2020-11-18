@@ -1,0 +1,10 @@
+UPDATE sinais_vitais
+SET saturacao_oxigenio=subquery.fc
+FROM (SELECT C1.value as fc, C1.charttime as horario,C1.subject_id as paciente
+      FROM chartevents C1
+     where C1.value is not null 
+AND C1.value != '0'
+AND C1.itemid = 6701) AS subquery
+WHERE sinais_vitais.horario=CAST(subquery.horario as CHARACTER VARYING)
+AND sinais_vitais.paciente=subquery.paciente
+AND sinais_vitais is null;

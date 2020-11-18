@@ -1,0 +1,17 @@
+/site/app/vendor/*
+/site/app/config/app.php
+/site/app/tmp/*
+/site/app/logs/*
+/nbproject/private/
+/public_html/admin/img/produtos/*.*
+/mkt/tmp/*.*
+/mkt/tmp/*/
+/public_html/uploads/
+*Thumbs.db
+*mwb.bak
+*wb51.mwb
+/site/app/composer.lock
+/phyton/data-set-sinais-vitais.csv
+/site/app/tmp/data-set-sinais-vitais.csv
+/site/app/tmp/sinais_vitais.csv
+/public_html/python/img/data-set-sinais-vitais.csv

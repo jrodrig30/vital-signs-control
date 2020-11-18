@@ -1,0 +1,66 @@
+div.OwBuscaCampoBusca{
+    margin-bottom: 5px;
+}
+
+.OwBuscaCampoBusca label{
+    display: block;
+    min-width: 90px;
+    float: left;
+}
+
+.OwBuscaLimit label{
+    width: 90px;
+    float: left;
+    display: block;
+}
+
+.DivOwBuscaValor{
+    float: left;
+    width: 350px;
+    clear: none;
+}
+
+.DivOwBuscaValor input{
+    float: left;
+    display: inline;
+    clear: none;
+    width: 218px;
+}
+
+.DivOwBuscaValor input.min,
+.DivOwBuscaValor input.max{
+    width: 100px;
+}
+
+.DivOwBuscaValor input.min{
+    margin-right: 10px;
+}
+
+.OwCamposBusca div.submit{
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.OwBuscaCampoTipo{
+    padding-right: 10px;
+    float: left;
+    clear: none;
+}
+
+form .OwBuscaCampoTipo, form .DivOwBuscaValor{
+    margin-bottom: 0px;
+    padding-bottom: 0;
+}
+
+div.OwBuscaCampos{
+    float: left;
+    clear: none;
+    padding-right: 10px;
+    min-width: 85px;
+}
+
+form div.clear{
+    height: 0;
+    margin: 0;
+    padding: 0;
+}

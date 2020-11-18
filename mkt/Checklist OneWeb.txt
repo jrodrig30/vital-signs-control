@@ -1,0 +1,81 @@
+Check list conclusão sites
+
+Sempre baixar o site modelo do site da oneweb, nunca deixar salvo no computador.
+Testar site no IE 6
+Testar site no IE 7/8/9
+Testar site no chrome
+Testar site no firefox
+Testar site no opera
+Testar site no safari
+Botões Enviar/Resetar dos formulários deve aparecer a "mãozinha" quando passar o mouse sobre
+Arrumar a tag Title para cada página
+Colocar nosso logo no rodapé
+Testar formulários depois de publicar o site
+Colocar link para a home na logo do site
+Não usar css inline (style)
+Usar as tags para seus devidos propósitos. Exemplo: para um título, não se usa a tag "p" se usa as tags "h1" a "h6". PAra enderessos, address. Para isso você precisa conhecer todas as tags. O link com todas as tags e sua explicação para que serve é: http://www.w3schools.com/tags/default.asp
+Conhecer todas os atributos css: http://www.w3schools.com/css/css_reference.asp
+Sempre baixar o site antes de fazer uma alteração para não sobrescrever alterações feitas por outra pessoa.
+Prever que nas áreas onde tem sistema, a altura e a largura podem e irão variar. 
+Testar a área do sistema com mais e com menos conteúdo do que tem no layout.
+Não esquercer o atributo alt nas imagens.
+Nas tabelas, se a primeira linha tem 5 colunmas, todas as outras linhas devem ter 5 colunas, OU usar o colspan
+Nos campos de senha, deve aparecer "***"
+Se eu tenho uma tag qualquer com 500px de largura, tudo que estiver dentro não deve ter mais de 500px de largura.
+Fazer o preload das imagens no caso de ter um evento "over". Exemplo de como fazer no site da mizumo, na pasta elements.
+Evite usar o atributo id para apenas formatar. Prefira sempre usar class.
+Evite usar class em tudo, exemplo:
+
+1 - Exemplo errado:
+
+<p class="classe1">
+	Clique <a class="link" href="http://www.onehost.com.br">aqui</a> para abrir o site da onehost.
+</p>
+
+.classe1{
+   .....
+}
+
+.link{
+  ....
+}
+
+
+2 - O exemplo meio certo seria:
+
+
+
+<p class="classe1">
+	Clique <a href="http://www.onehost.com.br">aqui</a> para abrir o site da onehost.
+</p>
+
+.classe1{
+   .....
+}
+
+.classe1 a{
+  ....
+}
+
+
+
+3 - Mas o ideal mesmo é:
+
+<p>
+   Clique <a href="http://www.onehost.com.br">aqui</a> para abrir o site da onehost.
+</p>
+
+p{
+   .....
+}
+
+p a{
+  ....
+}
+Viu? Muito mais simples, elegante e fácil de dar manutenção. E o efeito final é o mesmo.
+
+
+Adicionar favicon aos sites, não deixar o favicon do cakephp.
+
+Ao editar qualquer arquivo, sempre verificar qual a codificação correta dele antes.
+Ao editar qualquer arquivo, criar um projeto no netbeans com a codificação correta.

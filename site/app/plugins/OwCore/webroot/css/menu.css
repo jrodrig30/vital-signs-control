@@ -1,0 +1,17 @@
+#header{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.sf-menu{
+    margin-bottom: 0;
+}
+
+.sf-menu ul{
+    width: 160px;
+}
+
+ul.sf-menu li li:hover ul,
+ul.sf-menu li li.sfHover ul{
+    left: 160px;
+}
